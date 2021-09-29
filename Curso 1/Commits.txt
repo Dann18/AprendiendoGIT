@@ -1,6 +1,3 @@
 Al hacer commit sobre una rama esta se actualiza cambiando su hash,
 git administra dichos hash para diferenciar el mismo archivo a lo
 largo del tiempo.
-
-
-asd
